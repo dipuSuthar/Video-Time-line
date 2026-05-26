@@ -1,71 +1,60 @@
-# Getting Started with Create React App
+#  Video Timeline
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React-based custom video timeline system inspired by YouTube chapters.
 
-## Available Scripts
+This project focuses on implementing custom video control logic where a video is divided into multiple interactive chapters. Users can directly navigate to specific sections of the video by clicking on the custom timeline segments.
 
-In the project directory, you can run:
+The main purpose of this project was to improve frontend logic building, video state management, and custom timeline synchronization.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Custom video progress bar
+- Chapter-based video navigation
+- Direct timestamp seeking
+- Interactive timeline controls
+- Dynamic chapter handling
+- Smooth video synchronization
+- Responsive user interface
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tech Stack
 
-### `npm run build`
+- React.js
+- JavaScript
+- Material UI (MUI)
+- Emotion Styling
+- React Player
+- HTML5 Video APIs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Core Logic Implemented
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Custom timeline calculations
+- Video progress synchronization
+- Timestamp mapping
+- Dynamic chapter seeking
+- Click-based navigation system
+- Real-time progress tracking
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+##  Preview
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/6a030632-044a-4f0e-878e-0c3663862add" />
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/879395d5-d60c-4d90-8eef-c43be9c78af1" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## ⚙️ Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Video-Time-line
+```bash
+git clone https://github.com/your-username/video-timeline.git
+cd video-timeline
+npm install
+npm start
