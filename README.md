@@ -56,7 +56,7 @@ The main purpose of this project was to improve frontend logic building, video s
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/video-timeline.git
+git clone https://github.com/dipuSuthar/Video-Time-line.git
 cd video-timeline
 npm install
 npm start
