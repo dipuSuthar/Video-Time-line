@@ -44,8 +44,10 @@ The main purpose of this project was to improve frontend logic building, video s
 
 ##  Preview
 
-> <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/6a030632-044a-4f0e-878e-0c3663862add" />
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/6a030632-044a-4f0e-878e-0c3663862add" />
 <img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/879395d5-d60c-4d90-8eef-c43be9c78af1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec72267c-751c-497c-b3fb-f322ff824c67" />
+
 
 
 
